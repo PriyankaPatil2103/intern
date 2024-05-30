@@ -8,7 +8,7 @@ MongoDB (running instance or MongoDB Atlas account)
 
 3.Installation
 Clone the repository:
-git clone https://github.com/yourusername/auction-api.git
+git clone https://github.com/intern/auction-api.git
 
 Change into the project directory:
 cd auction-api
